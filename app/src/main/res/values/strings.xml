@@ -2,4 +2,11 @@
     <string name="app_name">Kaksha</string>
     <string name="kaksha">Kaksha</string>
     <string name="next">Continue</string>
+    <string name="registrationnumber">Registration Number</string>
+    <string name="password">Password</string>
+    <string name="swipelogin">Swipe Up to login</string>
+    <string name="icondesc">Image</string>
+    <string name="fullname">Full Name</string>
+    <string name="srmemail">SRM Email</string>
+    <string name="registerlogin">Swipe Up to Register</string>
 </resources>
