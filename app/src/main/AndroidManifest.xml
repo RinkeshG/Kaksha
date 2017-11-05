@@ -25,8 +25,8 @@
         <activity android:name=".NewsFeed" />
         <activity android:name=".Fragment.fragment_login" />
         <activity
-            android:name=".MainActivity"
-            android:label="@string/title_activity_main"
+            android:name=".Dashboard"
+            android:label="@string/title_activity_dashboard"
             android:theme="@style/SplashTheme"></activity>
     </application>
 

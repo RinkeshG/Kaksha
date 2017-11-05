@@ -10,4 +10,10 @@
     <string name="srmemail">SRM Email</string>
     <string name="registerlogin">Swipe Up to Register</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
