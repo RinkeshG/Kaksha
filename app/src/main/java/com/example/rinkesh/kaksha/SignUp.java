@@ -5,17 +5,17 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class Login extends AppCompatActivity {
+public class SignUp extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
+        setContentView(R.layout.activity_sign_up);
     }
 
-    public void onloginClick(View view) {
+    public void onsignupClick(View view) {
 
-        Intent intent = new Intent(this, NewsFeed.class);
+        Intent intent = new Intent(this, Login.class);
         startActivity(intent);
     }
 }

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kaksha</string>
+    <string name="kaksha">Kaksha</string>
+    <string name="next">Continue</string>
 </resources>
