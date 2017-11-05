@@ -23,7 +23,11 @@
             android:name=".SignUp"
             android:theme="@style/SplashTheme" />
         <activity android:name=".NewsFeed" />
-        <activity android:name=".Fragment.fragment_login"></activity>
+        <activity android:name=".Fragment.fragment_login" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/SplashTheme"></activity>
     </application>
 
 </manifest>

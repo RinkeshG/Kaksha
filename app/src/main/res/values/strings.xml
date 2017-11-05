@@ -9,4 +9,5 @@
     <string name="fullname">Full Name</string>
     <string name="srmemail">SRM Email</string>
     <string name="registerlogin">Swipe Up to Register</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
